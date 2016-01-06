@@ -1,0 +1,23 @@
+[  
+   {  
+      FieldID:1,
+      DefaultCaption:"First Name",
+      ControlType:1,
+      DefaultVal:"",
+      BindProperty:"FirstName"
+   },
+   {  
+      FieldID:2,
+      DefaultCaption:"Last Name",
+      ControlType:1,
+	  DefaultVal:"",
+      BindProperty:"LastName"
+   },
+   {  
+      FieldID:3,
+      DefaultCaption:"Save",
+      ControlType:2,
+	  DefaultVal:"",
+	  BindProperty:"save"
+   }
+]
